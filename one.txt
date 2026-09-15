@@ -3,3 +3,4 @@ Learning Git haha
 This line was added in feature-one
 Fourth line
 This is my fifth line for push req practice
+This line was added directly from GitHub
